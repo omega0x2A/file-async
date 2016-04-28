@@ -1,0 +1,9 @@
+[package]
+name = "file-async"
+version = "0.0.1"
+authors = [ "Your name <you@example.com>" ]
+
+[dependencies]
+winapi = "0.2.5"
+kernel32-sys = "0.2.1"
+time = "0.1"
